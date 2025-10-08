@@ -3,7 +3,7 @@
 
 <main>
     <h2>Página de Inicio</h2>
-    <p>Bienvenido a mi sitio web modular. Aquí practicamos PHP con includes.</p>
+    <p>Bienvenido a mi sitio web modular</p>
 </main>
 
 <?php include("includes/footer.php"); ?>
