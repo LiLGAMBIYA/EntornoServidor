@@ -65,7 +65,6 @@ $current_page = $_GET['page'] ?? 'inicio';
             font-size: 0.9rem;
             margin-top: 20px;
         }
-        /* --- Responsive --- */
         @media (max-width: 768px) {
             h1 { font-size: 1.5rem; }
             nav { flex-direction: column; }
